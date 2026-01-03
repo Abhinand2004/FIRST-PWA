@@ -1,6 +1,6 @@
 {
-  "name": "Pure Next PWA",
-  "short_name": "NextPWA",
+  "name": "Pigyyy",
+  "short_name": "Pigyyy",
   "description": "A pure PWA built from scratch using Next.js",
   "start_url": "/?source=pwa",
   "scope": "/",
