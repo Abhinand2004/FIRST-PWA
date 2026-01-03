@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 /* ✅ Metadata = SEO + manifest only */
 export const metadata: Metadata = {
-  title: "Pure Next PWA",
+  title: "Pigyyy",
   description: "Next.js Progressive Web App",
   manifest: "/manifest.json",
 };
